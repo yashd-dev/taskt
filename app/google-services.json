@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323621912888",
+    "project_id": "assignment2-be688",
+    "storage_bucket": "assignment2-be688.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323621912888:android:fbd9848ba7c398c90681cd",
+        "android_client_info": {
+          "package_name": "com.yashd.assignment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt20u0_rNauI0192ckjYODcX-WGidYg5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
