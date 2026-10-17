@@ -45,7 +45,6 @@ There are no repeat schedules, task duplication, manual reordering, list archivi
 - Jetpack Compose UI and Material 3 components
 - Firebase Realtime Database Android SDK
 - Gradle Kotlin DSL and version catalog
-- JUnit unit tests
 
 ## Firebase data model
 
@@ -124,13 +123,12 @@ assets/
   priority-view.jpeg
 ```
 
-## Build and test
+## Build
 
 Requirements: Android Studio-compatible Android SDK, JDK, and the included Gradle wrapper.
 
 ```sh
 ./gradlew :app:assembleDebug
-./gradlew :app:testDebugUnitTest
 ```
 
 The debug APK is produced at `app/build/outputs/apk/debug/app-debug.apk`.
